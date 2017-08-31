@@ -1,0 +1,12 @@
+{
+    "ID":"b543a7f0d6045bf1893d51aadf58b899",
+    "ActionKeyword":"dt",
+    "Name":"youdao Dict",
+    "Description":"http://fanyi.youdao.com/openapi?path=data-mode",
+    "Author":"zidy",
+    "Version":"0.0.1",
+    "Language":"python",
+    "Website":"http://www.getwox.com",
+    "IcoPath":"Images\\zxc.ico",
+    "ExecuteFileName":"main.py"
+}
