@@ -1,15 +1,9 @@
 # wox-plugin
-## Wox Plugin YouDict For Python
+###  Wox Plugin YouDict For Python
 
+![example](\static\example.gif)
 
-
-![example](/static\example.gif)
-
-
-
-
-
-#　举个栗子
+###  举个栗子
 ```
 C:\Users\Administrator\AppData\Roaming\Wox\Plugins\
 ```
