@@ -1,7 +1,8 @@
 # wox-plugin
+
 ###  Wox Plugin YouDict For Python
 
-![example](../static/example.gif)
+![example](/static/example.gif)
 
 ###  举个栗子
 ```
